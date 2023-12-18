@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Harrajan</h1>
-<h3 align="center">I'm a software developer based in London</h3>
+<h3 align="center">I'm a web developer based in London</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
